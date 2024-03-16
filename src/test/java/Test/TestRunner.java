@@ -16,7 +16,7 @@ import cucumber.api.junit.Cucumber;
 
 public class TestRunner {
 
-	
+	//Please add All Step defination scenarios and then excute 
 	
 	
 }
